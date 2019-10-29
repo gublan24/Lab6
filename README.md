@@ -3,7 +3,7 @@
 I do not import Lab6 DatabaseProject into Android Studio, instead of importing I :
 1. Create a new empty project.
 2. Copy the following files from DatabaseProject into /res/layout:
-  - activity_main.xml
+  -  activity_main.xml
   - activity_about.xml
 3. Copy the following files into /app/java :
   - About.java
